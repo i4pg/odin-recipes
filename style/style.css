@@ -1,20 +1,20 @@
 @font-face {
   font-family: Lobster;
-  src: url('../assest/fonts/Lobster-Regular.ttf') format('truetype');
+  src: url('../assets/fonts/Lobster-Regular.ttf') format('truetype');
   font-style: normal;
   font-weight: 400;
 }
 
 @font-face {
   font-family: Caveat;
-  src: url('../assest/fonts/Caveat-VariableFont_wght.ttf') format('truetype');
+  src: url('../assets/fonts/Caveat-VariableFont_wght.ttf') format('truetype');
   font-style: normal;
   font-weight: 400 700;
 }
 
 @font-face {
   font-family: "Cairo Play";
-  src: url('../assest/fonts/CairoPlay-VariableFont_slnt\,wght.ttf') format('truetype');
+  src: url('../assets/fonts/CairoPlay-VariableFont_slnt\,wght.ttf') format('truetype');
   font-style: normal;
   font-weight: 300 700;
 }
