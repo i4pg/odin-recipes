@@ -12,7 +12,7 @@
 This was the very first assignment with the Odin Project curriculum. I learned how to fill out the HTML boilerplate, create directory and files, navigate through the terminal, input headers, paragraphs, images, and links. Alongside, I was able to create ordered and unordered lists for my recipes. Most importantly, I was able to organize "beginner friendly" clean code so it is readable and understandable to any viewer. 
 
 ## Tech Used 💻
-- [![Git](./assets/svgs/git.svg)](https://git-scm.com/) 
-- [![GitHub](./assets/svgs/github.svg)](https://github.com/) 
-- [![HTML](./assets/svgs/html.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
-- [![CSS](./assets/svgs/css.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+<a target="_blank" href="https://git-scm.com/"><img width="40px" src="./assets/svgs/git.svg" alt="Git"></a>
+<a target="_blank" href="https://github.com/"><img width="40px" src="./assets/svgs/github.svg" alt="GitHub"></a>
+<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img width="40px" src="./assets/svgs/html.svg" alt="HTML"></a>
+<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img width="40px" src="./assets/svgs/css.svg" alt="CSS"></a>
