@@ -1,0 +1,100 @@
+@font-face {
+  font-family: Lobster;
+  src: url('../assest/fonts/Lobster-Regular.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: Caveat;
+  src: url('../assest/fonts/Caveat-VariableFont_wght.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 400 700;
+}
+
+@font-face {
+  font-family: "Cairo Play";
+  src: url('../assest/fonts/CairoPlay-VariableFont_slnt\,wght.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 300 700;
+}
+
+body {
+  margin-left: 10%;
+  width: 80%;
+  font-family: "Cairo Play" ,Arial, Helvetica, sans-serif;
+  font-size: 1.5em;
+  font-weight: 400;
+  background-color: #edede9;
+  color: hsl(26.4,30.9%,24.1%);
+}
+
+article {
+  background-color: #f5ebe0;
+}
+
+figure img {
+  width: 400px;
+  height: auto;
+}
+
+.fw-700 {
+  font-weight: 700;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: Lobster, Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: hsl(22.1,31.1%,36.1%);
+}
+
+aside {
+  font-weight: 300;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: 350;
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: 570;
+}
+
+h3 {
+  font-size: 1.75rem;
+  font-style: italic;
+  font-weight: 450;
+}
+
+p {
+  font-size: 1.125rem;
+}
+
+footer {
+  text-align: center;
+}
+
+a {
+  color: hsl(30,19.6%,40%);
+}
+
+nav {
+text-align: center;
+}
+
+.tech {
+  width: 30px;
+  height: auto;
+}
+
+.logo {
+  width: 40px;
+  height: auto;
+  color: hsl(30,19.6%,70%);
+}
+
+h1 {
+  text-align: start;
+}
