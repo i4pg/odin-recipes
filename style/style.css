@@ -21,7 +21,7 @@
 
 body {
   width: 80%;
-  margin: 0 auto;
+  margin: 0 auto; /* This is the only exception */
   font-family: "Cairo Play" ,Arial, Helvetica, sans-serif;
   font-size: 1.5em;
   font-weight: 400;
