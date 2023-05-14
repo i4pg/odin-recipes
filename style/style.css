@@ -19,6 +19,15 @@
   font-weight: 300 700;
 }
 
+html {
+  box-sizing: border-box;
+}
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
 body {
   width: 80%;
   margin: 0 auto; /* This is the only exception */

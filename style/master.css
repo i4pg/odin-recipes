@@ -1,0 +1,24 @@
+.recipes-container {
+  padding:  16px;
+  margin: 0 auto;
+}
+
+ul {
+  display: inline;
+}
+
+.recipe {
+  max-width: 300px;
+  display: inline-block;
+  text-align: center;
+}
+
+ul img {
+  display: block;
+  max-width: 300px;
+}
+
+ul li {
+  display: inline;
+  text-align: center;
+}
